@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\bin\Debug\netcoreapp3.1\FrozenFive.exe
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\bin\Debug\netcoreapp3.1\FrozenFive.deps.json
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\bin\Debug\netcoreapp3.1\FrozenFive.runtimeconfig.json
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\bin\Debug\netcoreapp3.1\FrozenFive.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\bin\Debug\netcoreapp3.1\FrozenFive.dll
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\bin\Debug\netcoreapp3.1\FrozenFive.pdb
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\obj\Debug\netcoreapp3.1\FrozenFive.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\obj\Debug\netcoreapp3.1\FrozenFive.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\obj\Debug\netcoreapp3.1\FrozenFive.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\obj\Debug\netcoreapp3.1\FrozenFive.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\obj\Debug\netcoreapp3.1\FrozenFive.dll
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\obj\Debug\netcoreapp3.1\FrozenFive.pdb
+C:\Users\opilane\source\repos\FrozenOOPIndependent\ConsoleApp1\obj\Debug\netcoreapp3.1\FrozenFive.genruntimeconfig.cache
